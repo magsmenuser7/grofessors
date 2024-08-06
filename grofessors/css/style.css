@@ -1999,3 +1999,6 @@ section{
   top: 30%;
   cursor: pointer;
 }
+.navbar-custom .navbar-nav li a:hover{
+  color: #F37136 !important;
+}
